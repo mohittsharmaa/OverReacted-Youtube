@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+## To view live hosted version of this aplication 
+ Please visit the following link :
+ [https://over-reacted-youtube.netlify.app](https://over-reacted-youtube.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
